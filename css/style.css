@@ -1,0 +1,137 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	margin: 0 auto;
+	width: 50%;
+	height: 290px;
+	text-align: center;
+	background: #dedbd2;
+	padding: 20px;
+	color: #000;
+	border: 2px solid #000000;
+	border-radius: 8px;
+
+}
+
+#input {
+    width: 250px;
+    padding: 10px 15px;
+    font-size: 16px;
+    margin: 10px;
+    border: 2px solid #0077b6;
+    border-radius: 30px;
+    outline: none;
+}
+
+#input:focus {
+    border-color: #0096c7;
+    box-shadow: 0px 0px 5px #0096c7;
+}
+
+#submit {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #0077b6;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#submit:hover {
+    background-color: #005f8f;
+}
+
+#refresh {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #ff6b6b;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+#refresh:hover {
+    background-color: #e63946;
+}
+
+
+.main-area{
+    background: #dedbd2;
+    width: 100%;
+    height:360px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5px;
+    color: #ffffff;
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.t-design{
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    margin-right: 25px;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0,0,0,0.20);
+
+
+}
+
+.t-design th{
+	background: #dedbd2;
+	font-size: 22px;
+	color: #000000;
+	border: 1px solid #000000;
+	t-size: 22px;
+}
+
+.t-design td {
+	font-size: 18px;
+	font-weight: bold;
+    padding: 20px 20px;
+    border: 1px solid #000000;
+    background: #0096c7;
+    color: #ffffff;
+}
+
+
+.t-design th, .t-design td {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.t-design tr:hover td {
+    background: #006d77;
+    transition: 0.3s;*/
+}
+
+.t-design tr:hover th {
+    background: #e1bb80;
+    color: #000000;
+    transition: 0.3s;*/
+}
+
+.main-area:hover{
+	background: #e1bb80;
+}
+
+/*th,td{
+	padding: 10px 45px;
+	color: #000;
+}*/
