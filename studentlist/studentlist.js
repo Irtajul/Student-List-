@@ -78,10 +78,10 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1517';
 		document.getElementById("e-mail").innerHTML='webmasterzahid@gmail.com';
 		document.getElementById("phone").innerHTML='+8801727186838';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/zahidwebmaster';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/zahidbarguna/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/Zahid.Barguna';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/48htyfb';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
 		document.getElementById("github").innerHTML='Web Design & Development';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	}
@@ -94,11 +94,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1546';
 		document.getElementById("e-mail").innerHTML='irtajul2016@gmail.com';
 		document.getElementById("phone").innerHTML='+8801712727808';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/devirtajul';
-		document.getElementById("linkedin").innerHTML='http://www.linkedin.com/in/devirtajul';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/irtajulakhter.khan/';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/48htyfb';
-		document.getElementById("github").innerHTML='https://github.com/Irtajul';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='http://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 47){
@@ -126,11 +126,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1548';
 		document.getElementById("e-mail").innerHTML='sadiqkpur@gmail.com';
 		document.getElementById("phone").innerHTML='+8801912075209';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/devsadiq?sb=t';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/kazi-sadikuzzaman-114005b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9YjbGjUfQbOzaW21SEeJwQ%3D%3D';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/share/1BgLGhTsHd/';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/kazis-0f3llnv';
-		document.getElementById("github").innerHTML='https://github.com/KaziSadikuzzaman';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	else if(input == 49){
@@ -142,11 +142,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1549';
 		document.getElementById("e-mail").innerHTML='aarjumoniakter@gmail.com';
 		document.getElementById("phone").innerHTML='+8801887355271';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/arjumoni33';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/devarjumaniakter/';
-		document.getElementById("facebook").innerHTML='https://web.facebook.com/arju.moni.176276';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage';
-		document.getElementById("github").innerHTML='https://github.com/arjumani87';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://web.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 50){
@@ -158,11 +158,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1550';
 		document.getElementById("e-mail").innerHTML='mdrofiqulislamkhan84@gmail.com';
 		document.getElementById("phone").innerHTML='+8801713902316';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/devrofiq';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/devrofiq/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/share/1ANErWsupc/?mibextid=wwXIfr';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend';
-		document.getElementById("github").innerHTML='https://github.com/DevRofiq';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 51){
@@ -174,11 +174,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1551';
 		document.getElementById("e-mail").innerHTML='pustan22@gmail.com';
 		document.getElementById("phone").innerHTML='+8801713-041807 | +8801718-626813';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/devzahid75';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/devzahid75/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/mrzahid1975';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/zaheduli-zblmg19';
-		document.getElementById("github").innerHTML='https://github.com/zahid1975';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 52){
@@ -190,11 +190,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1552';
 		document.getElementById("e-mail").innerHTML='sushanta7907@gmail.com';
 		document.getElementById("phone").innerHTML='+8801711187907';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/sushantap79';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/sushanta-paul-01307057/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/sushanta';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/h2h0tb4';
-		document.getElementById("github").innerHTML='https://github.com/sushanta2311';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 53){
@@ -223,10 +223,10 @@ function checkinput(){
 		document.getElementById("e-mail").innerHTML='mukitul2k9@gmail.com';
 		document.getElementById("phone").innerHTML='+8801709990001';
 		document.getElementById("freelancer").innerHTML='XXXXXX';
-		document.getElementById("linkedin").innerHTML='http://www.linkedin.com/in/devkazi';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/DevKazi2k80';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/96d5395';
-		document.getElementById("github").innerHTML='https://github.com/DevKazi';
+		document.getElementById("linkedin").innerHTML='http://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 55){
@@ -254,11 +254,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1556';
 		document.getElementById("e-mail").innerHTML='mitu597772@gmail.com';
 		document.getElementById("phone").innerHTML='+8801787597772';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com.bd/u/nurjahanm4';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/nurjahan247/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/nurjahan.mitu.870108';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/7b7yr0d';
-		document.getElementById("github").innerHTML='https://github.com/devnurjahan';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 57){
@@ -270,11 +270,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1557';
 		document.getElementById("e-mail").innerHTML='joeardarlutfulpappana70@gmail,.com';
 		document.getElementById("phone").innerHTML='+8801719731456';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/devlutfulpapa?ngsw-bypass=';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/feed/';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
 		document.getElementById("facebook").innerHTML='XXXXXX';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/1nlj66t';
-		document.getElementById("github").innerHTML='https://github.com/devlutfulpappana70';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 58){
@@ -286,11 +286,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1558';
 		document.getElementById("e-mail").innerHTML='muradhossen94848@gmail.com';
 		document.getElementById("phone").innerHTML='+8801717479377';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/proseoex';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/murad-hossain1/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/muradhossain555/';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/h1nbmvf';
-		document.getElementById("github").innerHTML='https://github.com/murad-hossain1';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 59){
@@ -302,11 +302,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1559';
 		document.getElementById("e-mail").innerHTML='XXXXXX';
 		document.getElementById("phone").innerHTML='+8801743711332';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com.bd/u/nurjahanm4';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/nurjahan247/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/nurjahan.mitu.870108';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/7b7yr0d';
-		document.getElementById("github").innerHTML='https://github.com/devnurjahan';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 60){
@@ -318,10 +318,10 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1560';
 		document.getElementById("e-mail").innerHTML='mdsohel85625@gmail.com';
 		document.getElementById("phone").innerHTML='+8801648837862';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com.bd/u/devsohel62';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/md-sohel-281b6038b/';
-		document.getElementById("facebook").innerHTML='https://web.facebook.com/md.sohel.hossen.940559';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://web.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
 		document.getElementById("github").innerHTML='XXXXXX';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
@@ -350,11 +350,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1562';
 		document.getElementById("e-mail").innerHTML='mnsakib.cse@gmail.com';
 		document.getElementById("phone").innerHTML='+8801868991826';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/devsakib69';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/devsakib/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/sakib.2660';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/xg7jnw7';
-		document.getElementById("github").innerHTML='https://github.com/sakib69-web';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 63){
@@ -366,11 +366,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1563';
 		document.getElementById("e-mail").innerHTML='rumanazara15@gmail.com';
 		document.getElementById("phone").innerHTML='+8801306222124';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com.bd/u/devrumana';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/rumana-afrose-23ab4338b/';
-		document.getElementById("facebook").innerHTML='https://www.facebook.com/Alhamdulillah4loveofAllah';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/?hl=en_US&co=US&from=gnav-notifcenter';
-		document.getElementById("github").innerHTML='https://github.com/devrumana';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://www.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 64){
@@ -382,11 +382,11 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1564';
 		document.getElementById("e-mail").innerHTML='sifatullah25494039@gmail.com';
 		document.getElementById("phone").innerHTML='+8801325494039';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/devmdsifat25';
-		document.getElementById("linkedin").innerHTML='https://www.linkedin.com/in/md-sifat-ullah-1aa4b7390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app';
-		document.getElementById("facebook").innerHTML='https://web.facebook.com/asmaulhossain.sifat/';
-		document.getElementById("indeed").innerHTML='https://profile.indeed.com/p/s84sgmn';
-		document.getElementById("github").innerHTML='https://github.com/devsifatullah';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
+		document.getElementById("linkedin").innerHTML='https://www.linkedin.com';
+		document.getElementById("facebook").innerHTML='https://web.facebook.com';
+		document.getElementById("indeed").innerHTML='https://profile.indeed.com';
+		document.getElementById("github").innerHTML='https://github.com';
 		document.getElementById("institute_name").innerHTML='Freedom IT Institutions';
 	 }
 	 else if(input == 65){
@@ -398,7 +398,7 @@ function checkinput(){
 		document.getElementById("id").innerHTML='FIT-WDD-1565';
 		document.getElementById("e-mail").innerHTML='sumonhello87@gmail.com';
 		document.getElementById("phone").innerHTML='+8801765286909';
-		document.getElementById("freelancer").innerHTML='https://www.freelancer.com/u/innovativet8';
+		document.getElementById("freelancer").innerHTML='https://www.freelancer.com';
 		document.getElementById("linkedin").innerHTML='XXXXXX';
 		document.getElementById("facebook").innerHTML='XXXXXX';
 		document.getElementById("indeed").innerHTML='XXXXXX';
@@ -408,6 +408,7 @@ function checkinput(){
 	 	alert("Sorry Wrong Input. Please Try Again");
 	 }
 }
+
 
 
 
