@@ -247,7 +247,7 @@ function checkinput(){
 	 }
 	 else if(input == 56){
 	 	document.getElementById("roll").innerHTML='56';
-		document.getElementById("name").innerHTML='Mitu ';
+		document.getElementById("name").innerHTML='Nurjahan Mitu';
 		document.getElementById("batch").innerHTML='WDD 15';
 		document.getElementById("group").innerHTML='4';
 		document.getElementById("course").innerHTML='Web Design & Development';
@@ -408,6 +408,7 @@ function checkinput(){
 	 	alert("Sorry Wrong Input. Please Try Again");
 	 }
 }
+
 
 
 
